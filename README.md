@@ -61,7 +61,7 @@ This project allows you to dynamically **scrape web content**, **filter research
 2. Ensure the virtual environment is active.  
 3. Run the script:  
    ```bash
-   python web_scraper_query.py
+   python app.py
    ```  
 ---
 
