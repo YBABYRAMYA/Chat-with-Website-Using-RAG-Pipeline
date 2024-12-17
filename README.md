@@ -1,6 +1,6 @@
 # 🕸️ Dynamic Web Scraping & Query-Based Content Extraction 🚀  
 
-## 📝 Project Overview  
+## 📝 Project Overview  📝
 This project allows you to dynamically **scrape web content**, **filter research-related data**, and generate meaningful responses to user queries using **NLP models**. It combines web scraping with machine learning to provide precise and relevant information.  
 
 ---
