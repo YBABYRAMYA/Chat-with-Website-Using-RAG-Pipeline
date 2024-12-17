@@ -24,6 +24,24 @@ This project allows you to dynamically **scrape web content**, **filter research
 
 ---
 
+## 📂 Project Structure  📂
+
+The project is organized as follows:  
+
+```bash
+Chat_With_Website/
+│
+├── venv/                    # Python virtual environment
+│   ├── Include/  
+│   ├── Lib/  
+│   ├── Scripts/  
+│   └── pyvenv.cfg  
+│
+├── app.py                   # Main Python script for scraping and querying  
+└── README.md                # Documentation for the project  
+```
+
+---
 ## 🚀 Installation  🚀
 
 ### Step 1: Install Required Tools  
