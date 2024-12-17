@@ -33,8 +33,8 @@ This project allows you to dynamically **scrape web content**, **filter research
 ### Step 2: Set Up the Project  
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/yourusername/web_scraper_project.git
-   cd web_scraper_project
+   git clone https://github.com/yourusername/Chat_With_Website.git
+   cd Chat_With_Website
    ```
 2. Create a virtual environment:  
    ```bash
